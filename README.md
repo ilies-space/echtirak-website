@@ -1,3 +1,3 @@
 # echtirak-website
 merketing agency website
-![Alt text](screenshot.jpg?raw=true "Optional Title")
+![Alt text](screenshot.png?raw=true "Optional Title")
